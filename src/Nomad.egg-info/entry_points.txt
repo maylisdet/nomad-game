@@ -1,0 +1,4 @@
+[console_scripts]
+nomad_client = client.main:main
+nomad_server = server.main:main
+

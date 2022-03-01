@@ -1,0 +1,13 @@
+wheel
+jsonpickle
+networkx
+coverage
+pytest
+mypy
+black
+pygame
+pygame_gui
+pyyaml
+termcolor
+pre-commit
+pytest

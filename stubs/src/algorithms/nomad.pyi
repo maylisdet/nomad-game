@@ -1,0 +1,9 @@
+from functools import partial as partial
+from typing import Any, List, Tuple
+
+Position = Tuple[int, int]
+Board = List[List[int]]
+
+def normalize_board(board: Board, values_from): ...
+def get_all_paths(board: Board, tower_positions: List[Position]): ...
+def get_winner(board: Board, tower_positions: List[Position], tower_value: Any, red_value: Any, white_value: Any): ...

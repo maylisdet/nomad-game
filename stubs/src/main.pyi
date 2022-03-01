@@ -1,0 +1,3 @@
+from threading import Thread as Thread
+
+def main() -> None: ...

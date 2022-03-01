@@ -1,0 +1,15 @@
+title: "NOMAD"
+monitor:
+  height: 750
+  width: 1200
+
+colors:
+  deepChampagne_hex: "#F9D79F"
+  antiqueWhite_hex: "#F8EBDA"
+  linen_hex: "#F7EDE2"
+  fireOpal_hex: "#EE6055"
+  blackOlive_hex: "#484538"
+
+connection_info:
+  ip: "127.0.0.1"
+  port: "8080"

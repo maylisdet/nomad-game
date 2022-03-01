@@ -1,0 +1,3 @@
+include src/config/config.yaml
+include src/config/theme.json
+recursive-include ressources *
